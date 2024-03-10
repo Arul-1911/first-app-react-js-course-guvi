@@ -1,0 +1,38 @@
+.main-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(33, 31, 31);
+  padding: 10px;
+}
+
+.img-logo {
+  height: 60px;
+  width: 90px;
+  object-fit: contain;
+  object-position: center;
+  background: none;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.home-btn {
+  margin-right: 5px;
+}
+
+.about-btn {
+  margin-left: 4px;
+}
+
+button {
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  color: white;
+  background-color: rgb(33, 31, 31);
+}

@@ -1,0 +1,13 @@
+.Footer-container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(33, 31, 31);
+  color: white;
+  margin-top: 325px;
+}
+
+.main-container-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
